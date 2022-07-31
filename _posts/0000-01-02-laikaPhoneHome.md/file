@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+`rgb(100, 0, 100)` purlple
 Use the left arrow to go back!
